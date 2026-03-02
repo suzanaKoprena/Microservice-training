@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DevicesService.Api/DevicesService.Api.csproj" />
+  <Project Path="DevicesService.Application/DevicesService.Application.csproj" Id="57fc1c7c-da49-4a41-a288-dc62dd2cc340" />
+  <Project Path="DevicesService.Domain/DevicesService.Domain.csproj" Id="0a97a139-f16d-490f-977f-330db4fb6eb4" />
+</Solution>
