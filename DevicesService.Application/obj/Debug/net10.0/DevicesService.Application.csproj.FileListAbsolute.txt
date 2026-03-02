@@ -1,0 +1,11 @@
+C:\Projects\DevicesService\DevicesService.Application\bin\Debug\net10.0\DevicesService.Application.deps.json
+C:\Projects\DevicesService\DevicesService.Application\bin\Debug\net10.0\DevicesService.Application.dll
+C:\Projects\DevicesService\DevicesService.Application\bin\Debug\net10.0\DevicesService.Application.pdb
+C:\Projects\DevicesService\DevicesService.Application\obj\Debug\net10.0\DevicesService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\DevicesService\DevicesService.Application\obj\Debug\net10.0\DevicesService.Application.AssemblyInfoInputs.cache
+C:\Projects\DevicesService\DevicesService.Application\obj\Debug\net10.0\DevicesService.Application.AssemblyInfo.cs
+C:\Projects\DevicesService\DevicesService.Application\obj\Debug\net10.0\DevicesService.Application.csproj.CoreCompileInputs.cache
+C:\Projects\DevicesService\DevicesService.Application\obj\Debug\net10.0\DevicesService.Application.dll
+C:\Projects\DevicesService\DevicesService.Application\obj\Debug\net10.0\refint\DevicesService.Application.dll
+C:\Projects\DevicesService\DevicesService.Application\obj\Debug\net10.0\DevicesService.Application.pdb
+C:\Projects\DevicesService\DevicesService.Application\obj\Debug\net10.0\ref\DevicesService.Application.dll
